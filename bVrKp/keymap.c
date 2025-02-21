@@ -3,6 +3,15 @@
 #define MOON_LED_LEVEL LED_LEVEL
 #define ML_SAFE_RANGE SAFE_RANGE
 
+
+/* Steggy changes */
+
+#define CHORDAL_HOLD
+
+
+/* End Steggy changes */
+
+
 enum custom_keycodes {
   RGB_SLD = ML_SAFE_RANGE,
   HSV_0_255_255,
